@@ -12,5 +12,4 @@ Run the game from the GameEnvironment class.
 **How to take JAR and run it  
 
 1. Ensure Java 11 is installed on the machine  
-2. Open the zip folder in the terminal window  
-3. Run `93java -jar ebb35_mrw118_SpaceExplorer.jar`
+2. Run `93java -jar ebb35_mrw118_SpaceExplorer.jar`
